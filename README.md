@@ -1,10 +1,10 @@
 
 # space we fixed it  
   
-Space we fixed it, is a open plateform for beta tester, where you have to file issue for Space android project. 
+Space we fixed it, is a  plateform for beta tester, where you have to rise issue. 
 
 ##  Protocol 
-1.  title  containts app version, vendor name of mobile and OS version of android 
+1.  title  containts app version, vendor name of mobile and OS version of android and then title of issue 
 2.  In description describe the issue. 
 
-We create a sample bug in channel, please refer it. 
+We have created a sample bug in channel, please refer it. 
